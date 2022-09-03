@@ -30,5 +30,5 @@ Quantifiers:
 - `{3}`      - Exact Number
 - `{3,4}`  - Range of Numbers (Minimum, Maximum)
 
-Check out the [Regex.ipynb]('Regex.ipynb') file for details Code
+Check out the [Regex.ipynb](Regex.ipynb) file for details Code
 
