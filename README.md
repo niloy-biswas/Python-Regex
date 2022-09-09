@@ -41,3 +41,5 @@ Use REGEXP_CONTAINS to filter only the correct phone number.
 And, use REGEXP_EXTRACT for extracting then Concat it for showing all of them in a single format.
 
 <img src="SQL-Regex.jpg">
+
+Check out the [Phone.sql](Phone.sql) file for this Code
