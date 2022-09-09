@@ -32,5 +32,12 @@ Quantifiers:
 
 <img src="Regex.png">
 
-Check out the [Regex.ipynb](Regex.ipynb) file for details Code
+Check out the [Regex.ipynb](Regex.ipynb) file for details Code in Python
 
+# SQL-Regex
+
+Now, Let's talk about the below problem. Here, I tried to match the correct phone number pattern (For BD), and store them in a single format. I do it in #BigQuery.
+Use REGEXP_CONTAINS to filter only the correct phone number.
+And, use REGEXP_EXTRACT for extracting then Concat it for showing all of them in a single format.
+
+<img src="SQL-Regex.jpg">
